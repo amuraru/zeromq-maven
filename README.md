@@ -1,8 +1,8 @@
 Maven repository hosting zeromq artifacts
 
 Use the following URLs in your pom.xml file:
-* Releases: `https://amuraru.github.com/zeromq-maven/repository/releases/`  
-* Snapshots: `https://amuraru.github.com/zeromq-maven/repository/snapshots/`  
+* Releases: `http://amuraru.github.com/zeromq-maven/repository/releases/`  
+* Snapshots: `http://amuraru.github.com/zeromq-maven/repository/snapshots/`  
 
 ##Changelog
 
