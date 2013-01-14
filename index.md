@@ -1,9 +1,12 @@
+---
+layout: main
+---
 #Description
 Maven repository hosting zeromq artifacts
 
 ADd the following repositories in your `pom.xml` file:
 
-```xml
+{% highlight xml %}
 <project>
     <repositories>
       <repository>
@@ -16,7 +19,7 @@ ADd the following repositories in your `pom.xml` file:
        </repository>
     </repositories>
 </project>
-```
+{% endhighlight %}
 
 [Browse online repository](http://amuraru.github.com/zeromq-maven/repository/)
 
