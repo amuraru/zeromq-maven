@@ -1,5 +1,8 @@
 #!/bin/bash
 
+find ./repository -depth -name '* *' \
+| while IFS= read -r f ; do mv -i "$f" "$(dirname "$f")/$(basename "$f"|tr -d " ")" ; done
+
 for DIR in $(find ./repository -type d); do
   (
     echo -e "<html>\n<body>\n<h1>Directory listing</h1>\n<hr/>\n<pre>"
