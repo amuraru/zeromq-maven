@@ -2,7 +2,7 @@
 ```bash
 #cd /data/projects
 #git clone git@github.com:amuraru/zeromq-maven.git
-export MAVEN_DIR=/data/projects/zeromq-maven
+export MAVEN_DIR=/data/projects/zeromq-maven/repository
 export SNAPSHOT_REPO="file://${MAVEN_DIR}/snapshots"
 export RELEASE_REPO="file://${MAVEN_DIR}/releases"
 
