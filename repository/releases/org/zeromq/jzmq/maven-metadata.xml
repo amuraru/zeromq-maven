@@ -3,12 +3,13 @@
   <groupId>org.zeromq</groupId>
   <artifactId>jzmq</artifactId>
   <versioning>
-    <release>3.0.2.1</release>
+    <release>3.1.0</release>
     <versions>
       <version>2.1.0</version>
       <version>2.2.2</version>
       <version>3.0.2.1</version>
+      <version>3.1.0</version>
     </versions>
-    <lastUpdated>20131020184023</lastUpdated>
+    <lastUpdated>20140722200006</lastUpdated>
   </versioning>
 </metadata>

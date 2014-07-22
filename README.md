@@ -22,9 +22,3 @@ ADd the following repositories in your `pom.xml` file:
 
 [Visit on Github](http://github.com/amuraru/zeromq-maven)
 
-#Changelog
-
-**2013/01/11**  jzmq v2.1.0 deployed  [`amuraru/jzmq@76fb67e`](https://github.com/amuraru/jzmq/commit/76fb67e7007d3d291eae1be94269b54fce8de2f5)
-**2013/08/21**  jzmq v2.2.2 deployed
-
-
